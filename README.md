@@ -1,7 +1,7 @@
 ## Hi there, I'm Radhika-  [VAVILALA RADHIKA]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="left"> <samp>Hi, I am a ECE (B.Tech) Graduate.
  I want to be at the bleeding edge of technology.  
- In my repos you'll find projects created using .cpp,.c and .java
+ In my repos you'll find projects created using .csharp and .java
   
 - 🔭 I’m currently Working on CSharp
 - 💻 I’m currently learning everything in practical manner😎.
