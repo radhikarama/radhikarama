@@ -38,4 +38,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=radhikarama&show_icons=true&theme=nord" width="400px">
 </details>
 <br />
-<p > <img align="left" src="https://komarev.com/ghpvc/?username=radhikarama" alt="radhikarama" /> </p>
+
