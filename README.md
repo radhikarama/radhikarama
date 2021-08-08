@@ -15,7 +15,7 @@
 <p align="center">
  <a href="https://www.instagram.com/maheshvm_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://https://www.linkedin.com/in/mahesh-vadthyavath-3894a5188/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://www.gmail.com/radhikavavilala1@gmail.com"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://www.gmail.com/radhika@gmail.com"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ### Languages and Tools:
