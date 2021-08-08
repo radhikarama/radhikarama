@@ -8,8 +8,6 @@
 - 🎯 I’m looking to collaborate with other Github Members.
 - 🥅 2021 Goals: Full stack Developer.
 - ⚡ Fun fact about Coding :- <b> Fortran (FORmula TRANslation) was the name of the first programming language. </b><br>
-- 🚲 Fun fact about Me :- Meme lover & Marvel Fan (Especially Iron man).
-- 🎂  **Quote:- If you want to become handsome then Give your hand to someone.**
 - 📒 **Learning && Living**
  
  ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Mentor;I'm+a+FULLSTACK+DEVELOPER)
@@ -22,7 +20,7 @@
 
 ### Languages and Tools:
  <br />
- <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+ <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
